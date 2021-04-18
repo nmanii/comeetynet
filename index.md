@@ -22,4 +22,4 @@ I would like to take this opportunity to thank, once again, all those who have h
 
 The comeeteam
 
-<a href="[https://www.facebook.com/groups/1736528936669241]">Link to facebook</a>
+<a class="btn btn-primary" href="https://www.facebook.com/groups/1736528936669241" role="button">Join us on Facebook</a>
