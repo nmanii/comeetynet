@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+Hello to all,
 
-You can use the [editor on GitHub](https://github.com/nmanii/comeetynet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We hope you are all in good shape and staying strong.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is with great sadness that we inform you of the end of the comeety.net platform.
 
-### Markdown
+Our goal has always been to promote and make easy meeting people from all around the world, through intercultural activities, outings...
+But, unfortunately the pandemic came and the opportunities to meet became, and still are, very limited.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To top if off, OVH servers, where our website was hosted, recently caught fire which rushed the complete stop of comeety.net.
 
-```markdown
-Syntax highlighted code block
+But it's not over yet!
 
-# Header 1
-## Header 2
-### Header 3
+Comeety is not just a website. It's about meeting people, sharing experiences, international friendships and a desire to interact and bond with open-minded people.
+So let us keep in touch and get together through the facebook page or the group. And soon, we all hope, we will be able to meet again in-person.
 
-- Bulleted
-- List
+Please contact us if you want to create a Comeety group in your city and we will make available the link with the main page.
 
-1. Numbered
-2. List
+I would like to take this opportunity to thank, once again, all those who have helped bring the website alive and share an amazing and meaningful experience during these past 5 years.
 
-**Bold** and _Italic_ and `Code` text
+Thank you all and the adventure continues!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nmanii/comeetynet/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The comeeteam
